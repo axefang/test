@@ -1,0 +1,25 @@
+sudo apt-get install git
+
+git
+
+ssh-keygen -t rsa -C "axefang@gmail.com"
+
+git config --global user.name 'axefang'
+
+git config --global user.email 'axefang@gmail.com'
+
+git clone
+
+git add
+
+git commit -m '创建hello.c'
+
+git push origin master
+
+git log --pretty=oneline
+
+git pull
+
+git reset
+
+git checkout
